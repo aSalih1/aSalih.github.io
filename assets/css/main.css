@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 body {
-	line-height: 1;
+	line-height: 0.3;
 }
 
 ol, ul {
@@ -276,7 +276,7 @@ input, select, textarea {
 		pre code {
 			display: block;
 			line-height: 1.75;
-			padding: 1em 1.5em;
+			padding: 0.5em 0.5em;
 			overflow-x: auto;
 		}
 
